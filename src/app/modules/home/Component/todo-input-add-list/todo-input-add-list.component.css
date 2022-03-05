@@ -1,0 +1,18 @@
+:host{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+input, input::placeholder{
+    width: 80%;
+
+    padding: 15px;
+    
+    border: none;
+    background-color: rgba(49, 49, 49, 1);
+    color: white;
+
+    margin-top: -20px;
+}
